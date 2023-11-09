@@ -24,3 +24,8 @@ img{
     margin-left: 760px;
     margin-top: 100px;
 }
+.itemlistacabecalho{
+    list-style: none;
+    font-size: 20px;
+    margin-left: 15px;
+}
